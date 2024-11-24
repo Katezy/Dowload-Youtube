@@ -18,7 +18,11 @@ Before using this application, you need to install the following dependencies:
 - yt-dlp (YouTube downloader)
 
 ### Installation Steps
-1. Clone or download this repository to your local machine.
+1. Clone or download this repository to your local machine:
+    ```bash
+    git clone https://github.com/your-repository-url.git
+    ```
+
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
@@ -46,7 +50,7 @@ You can adjust the download settings by changing the resolution or audio format 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## --
+---
 
 # Download-Youtube
 โปรแกรมดาวน์โหลด YouTube ที่สร้างด้วย Python และ PyQt5 ที่ช่วยให้คุณสามารถดาวน์โหลดวิดีโอและเสียงจาก YouTube ได้ โปรแกรมนี้รองรับคุณภาพวิดีโอหลายระดับและรูปแบบเสียงต่าง ๆ
@@ -67,7 +71,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - yt-dlp (YouTube downloader)
 
 ### ขั้นตอนการติดตั้ง
-1. Clone หรือดาวน์โหลดโค้ดจาก GitHub มาเก็บไว้ในเครื่องของคุณ
+1. Clone หรือดาวน์โหลดโค้ดจาก GitHub มาเก็บไว้ในเครื่องของคุณ:
+    ```bash
+    git clone https://github.com/your-repository-url.git
+    ```
+
 2. ติดตั้งไลบรารีที่จำเป็น:
     ```bash
     pip install -r requirements.txt
@@ -94,4 +102,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## License
 โปรเจคนี้เป็นโครงการที่ได้รับอนุญาตภายใต้ **MIT License** - ดูรายละเอียดได้ในไฟล์ [LICENSE](LICENSE)
-
