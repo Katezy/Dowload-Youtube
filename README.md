@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 คุณสามารถปรับแต่งการตั้งค่าการดาวน์โหลดได้โดยการเลือกความละเอียดหรือรูปแบบเสียงตามที่คุณต้องการ โปรแกรมรองรับหลายรูปแบบของวิดีโอและเสียงจาก YouTube เพื่อให้คุณสามารถเลือกคุณภาพที่ดีที่สุดที่มี
 
 ## สกรีนช็อต
-![Screenshot1](screenshots/screenshot1.png)
+![Screenshot1](Download.png)
 
 ## License
 โปรเจคนี้เป็นโครงการที่ได้รับอนุญาตภายใต้ **MIT License** - ดูรายละเอียดได้ในไฟล์ [LICENSE](LICENSE)
